@@ -3,7 +3,7 @@
 ## Overview
 A Python desktop application that provides a graphical interface for running and analyzing Nmap network scans. Built with CustomTkinter for a modern UI and python-nmap for reliable scanning capabilities.
 
-**Status**: Active Development  
+**Status**: Production Ready  
 **Last Updated**: October 31, 2025
 
 ## Purpose
@@ -14,13 +14,15 @@ A Python desktop application that provides a graphical interface for running and
 
 ## Recent Changes
 
-### October 31, 2025 - Initial Development
+### October 31, 2025 - Initial Development & Thread Safety Fixes
 - Created complete project structure with clean separation of concerns
 - Implemented core scanning logic in `src/core/scanner.py`
 - Built GUI application with CustomTkinter in `src/gui/app.py`
 - Added export functionality for saving scan results
 - Created comprehensive README with ethical use disclaimers
 - Set up VNC workflow for desktop application display
+- **Thread Safety Fix**: Implemented queue-based communication between scan thread and main UI thread
+- Enhanced port validation to ensure proper range ordering (start <= end)
 
 ## Project Architecture
 
