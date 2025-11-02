@@ -18,6 +18,18 @@ A modern, user-friendly desktop application for running and analyzing Nmap netwo
 
 **Unauthorized network scanning may be illegal in your jurisdiction. Use at your own risk.**
 
+## SCAN() SCAN() SCAN() Initiating Python!
+
+[Dev Note] SCAN() for Network AI integration using Python
+
+This version includes:
+
+- Basic Nmap scan
+- Target input for target, type, and ports
+- Basic output display for scan results
+- Beginner-friendly setup - print-based and run
+
+
 ## 🤖 AI Usage Disclosure
 
 This project was developed with assistance from AI tools. The code has been reviewed and tested, but users should verify functionality for their specific use cases.
@@ -418,8 +430,15 @@ Listed in `requirements.txt`:
 
 ## 🖥️ Download
 
-👉 [Download SCANIQ for Windows (.exe)](https://github.com/LetsLearn-08/NmapAIProject/releases)
+You can now run SCANIQ without installing Python!
 
+👉 [Download SCANIQ for Windows (.exe)](https://github.com/LetsLearn-08/NmapAPIProject/releases)
+
+This version includes:
+- Splash screen and logo
+- GUI input for target, scan type, and ports
+- Real-time output in a scrollable textbox
+- Beginner-friendly setup — just download and run
 
 ## 🧠 How It Works
 
