@@ -70,7 +70,7 @@ brew install nmap
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nmap-scanner-app.git
+git clone https://github.com/LetsLearn-08/nmap-scanner-app.git
 cd nmap-scanner-app
 
 # Install Python dependencies
@@ -84,7 +84,7 @@ python main.py
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nmap-scanner-app.git
+git clone https://github.com/LetsLearn-08/nmap-scanner-app.git
 cd nmap-scanner-app
 
 # Install dependencies with uv
@@ -168,7 +168,7 @@ nmap-scanner-app/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nmap-scanner-app.git
+git clone https://github.com/LetsLearn-08/nmap-scanner-app.git
 cd nmap-scanner-app
 
 # Create a virtual environment (optional)
@@ -390,7 +390,7 @@ By keeping both projects public, I want to show how cybersecurity tools can evol
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/WmapAIProject.git
+git clone https://github.com/LetsLearn-08/NmapAIProject.git
 cd WmapAIProject
 ```
 ## ⚙️ Installation Steps
