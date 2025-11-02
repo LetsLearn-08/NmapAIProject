@@ -195,6 +195,7 @@ Use for ethical and educational purposes only. Reposting, redistribution, or mod
 I’m passionate about **ethical hacking**, **automation**, and **making cybersecurity tools beginner-friendly**.  
 **SCANIQ** is part of my journey to build tools that are useful, transparent, and easy to share.
 
-Follow my progress and connect on **[LinkedIn](llinkedin.com/in/tanuja-reddy-03aa7b38a)**.
+Follow my progress and connect on **[LinkedIn](https://www.linkedin.com/in/tanuja-reddy-03aa7b38a)**
+)**.
 
 
