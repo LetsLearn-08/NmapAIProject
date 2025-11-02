@@ -1,0 +1,3 @@
+customtkinter
+pillow
+python-nmap
